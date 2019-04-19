@@ -3,7 +3,7 @@
 こちらRubyで実装されたうお言語です。
 過去にボクが実装したコードを改変して作りました。
 
-![10分で作れるBrainf*ck派生言語:シロ組さん専用のプログラミング言語「siro」を作ってみた](https://qiita.com/benisho_ga/items/50e674fded183a9e12f1)
+[10分で作れるBrainf*ck派生言語:シロ組さん専用のプログラミング言語「siro」を作ってみた](https://qiita.com/benisho_ga/items/50e674fded183a9e12f1)
 
 # 使い方
 1.Gemの「[r-fxxk](https://github.com/masarakki/r-fxxk)」を[インストール](https://qiita.com/3no3_tw/items/8c1e3e95c75edae1036d)してください。  
